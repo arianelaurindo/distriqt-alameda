@@ -168,7 +168,7 @@ export default function Home() {
 
       <section className="hero" id="inicio">
         <div className="hero-media" aria-hidden="true">
-          <Image src="/images/alameda-hero.jpg" alt="" width={1920} height={1080} priority />
+          <Image src="/distriqt-alameda/images/alameda-hero.jpg" alt="" width={1920} height={1080} priority />
         </div>
         <div className="hero-overlay" aria-hidden="true" />
         <div className="hero-orbit hero-orbit-one" aria-hidden="true" />
@@ -224,7 +224,7 @@ export default function Home() {
         </div>
 
         <figure className="statement-image">
-          <Image src="/images/alameda-aerea.webp" alt="Perspectiva aérea ilustrada do ALAMEDA integrado à paisagem" width={1920} height={1057} />
+          <Image src="/distriqt-alameda/images/alameda-aerea.webp" alt="Perspectiva aérea ilustrada do ALAMEDA integrado à paisagem" width={1920} height={1057} />
           <figcaption><span>Perspectiva artística</span><strong>Arquitetura e natureza<br />em um mesmo horizonte.</strong></figcaption>
         </figure>
       </section>
@@ -291,7 +291,7 @@ export default function Home() {
 
       <section className="leisure" id="lazer">
         <figure className="leisure-media">
-          <Image src="/images/alameda-piscina.webp" alt="Perspectiva artística da piscina e do paisagismo do ALAMEDA" width={1920} height={1080} />
+          <Image src="/distriqt-alameda/images/alameda-piscina.webp" alt="Perspectiva artística da piscina e do paisagismo do ALAMEDA" width={1920} height={1080} />
           <div className="image-caption">Perspectiva artística · Imagem de divulgação ARQOS</div>
         </figure>
         <div className="leisure-content">
@@ -327,7 +327,7 @@ export default function Home() {
 
       <section className="location" id="localizacao">
         <div className="location-media">
-          <Image src="/images/alameda-portaria.webp" alt="Perspectiva artística da portaria do ALAMEDA" width={1920} height={1080} />
+          <Image src="/distriqt-alameda/images/alameda-portaria.webp" alt="Perspectiva artística da portaria do ALAMEDA" width={1920} height={1080} />
         </div>
         <div className="location-card">
           <p className="section-number">05 · LOCALIZAÇÃO</p>
@@ -343,7 +343,7 @@ export default function Home() {
 
       <section className="section advisor">
         <div className="advisor-image">
-          <Image src="/images/ariane-laurindo.webp" alt="Ariane Laurindo, consultora imobiliária em Alphaville e Barueri" width={1942} height={809} />
+          <Image src="/distriqt-alameda/images/ariane-laurindo.webp" alt="Ariane Laurindo, consultora imobiliária em Alphaville e Barueri" width={1942} height={809} />
         </div>
         <div className="advisor-copy">
           <p className="eyebrow dark"><span /> Atendimento consultivo</p>
