@@ -133,9 +133,9 @@ h2 em, .hero h1 em { font-weight: 400; }
 .signature-card::before { z-index: -2; background: var(--signature-image) center / cover no-repeat; filter: saturate(.7) contrast(1.04); transform: scale(1.015); transition: transform 1s cubic-bezier(.2,.7,.2,1), filter .5s ease; }
 .signature-card::after { z-index: -1; background: linear-gradient(180deg, rgb(3 17 14 / 52%) 0%, rgb(3 17 14 / 38%) 30%, rgb(3 17 14 / 82%) 66%, rgb(3 17 14 / 98%) 100%); }
 .signature-card:hover::before { filter: saturate(.88) contrast(1.04); transform: scale(1.055); }
-.signature-perkinswill { --signature-image: url("/images/perkinswill-arqos.jpg"); }
-.signature-sergio { --signature-image: url("/images/sergio-santana-arqos.jpg"); }
-.signature-fernanda { --signature-image: url("/images/fernanda-marques-arqos.jpg"); }
+.signature-perkinswill { --signature-image: url("/distriqt-alameda/images/perkinswill-arqos.jpg"); }
+.signature-sergio { --signature-image: url("/distriqt-alameda/images/sergio-santana-arqos.jpg"); }
+.signature-fernanda { --signature-image: url("/distriqt-alameda/images/fernanda-marques-arqos.jpg"); }
 .signature-sergio::before { background-position: center 32%; }
 .signature-fernanda::before { background-position: center 18%; }
 .signature-index { align-self: flex-end; color: rgb(244 240 231 / 30%); font-size: 9px; letter-spacing: .13em; }
